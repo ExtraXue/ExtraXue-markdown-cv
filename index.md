@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Howard Xue
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:howardxue123@foxmail.com
+  text: howardxue123@foxmail.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: http://www.extraxue.com
+  text: extraxue.com
 ---
 
 # Wode **Ni**
