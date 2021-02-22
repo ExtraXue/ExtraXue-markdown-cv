@@ -31,7 +31,7 @@ Supported arguments:
 
 ## 教育经历 Education
 
-### **东华理工大学** `2014.9 - 2018.7`
+### **东 华 理 工 大 学** `2014.9 - 2018.7`
 
 ```
 软件工程(嵌入式开发方向) 
@@ -40,24 +40,7 @@ Supported arguments:
 - 软件工程学士
 - 毕业绩点: 85/100
 - 在校4年每年均获得学院奖学金
-
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- 2014届学生中第一批成为中共党员
 
 ## Publications
 
