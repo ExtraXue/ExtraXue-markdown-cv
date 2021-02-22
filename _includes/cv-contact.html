@@ -15,4 +15,14 @@
     <a href="{{ page.phone.url }}" style="margin-left:0.5em"> {{ page.phone.text }} </a>
     {% endif %}
 
+    {% if page.birth %}
+    <i class="fi-torso" style="margin-left:1em"></i>
+    {{ page.age.text }}
+    {% endif %}
+
+    {% if page.git %}
+    <i class="fi-social-github" style="margin-left:1em"></i>
+    <a href="{{ page.git.url }}" style="margin-left:0.5em"> {{ page.git.text }} </a>
+    {% endif %}
+
 </div>

@@ -1,15 +1,20 @@
 ---
 layout: cv
-title: Howard Xue
+title: 薛臣豪
 email:
-  url: mailto:howardxue123@foxmail.com
-  text: howardxue123@foxmail.com
+    url: mailto:howardxue123@foxmail.com
+    text: howardxue123@foxmail.com
 homepage:
-  url: http://www.extraxue.com
-  text: extraxue.com
+    url: http://www.extraxue.com
+    text: extraxue.com
 phone:
-  url: tel:+19512118014
-  text: 19512118014
+    url: tel:+19512118014
+    text: 19512118014
+age:
+    text: 1995.12.11
+git:
+    url: gitee.com/extraxue
+    text: gitee.com/extraxue
 ---
 
 # 薛臣豪
