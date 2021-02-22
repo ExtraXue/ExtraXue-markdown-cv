@@ -7,9 +7,12 @@ email:
 homepage:
   url: http://www.extraxue.com
   text: extraxue.com
+phone:
+  url: tel:+19512118014
+  text: 19512118014
 ---
 
-# Wode **Ni**
+# **薛** 臣豪
 
 <!--
 include contact information from the front matter
@@ -21,7 +24,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 教育经历
 
 ### **Carnegie Mellon University** `2018.9 -`
 
