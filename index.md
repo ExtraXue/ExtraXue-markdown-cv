@@ -13,7 +13,7 @@ phone:
 age:
     text: 1995.12.11
 git:
-    url: gitee.com/extraxue
+    url: http://www.gitee.com/extraxue
     text: gitee.com/extraxue
 ---
 
@@ -31,14 +31,15 @@ Supported arguments:
 
 ## 教育经历 Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **东华理工大学** `2014.9 - 2018.7`
 
 ```
-Pittsburgh, PA
+软件工程(嵌入式开发方向) 
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- 软件工程学士
+- 毕业绩点: 85/100
+- 在校4年每年均获得学院奖学金
 
 ### **Columbia University** `2016.9 - 2018.5`
 
