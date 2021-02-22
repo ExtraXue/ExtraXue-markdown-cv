@@ -12,7 +12,7 @@ phone:
   text: 19512118014
 ---
 
-# **薛** 臣豪
+# 薛臣豪
 
 <!--
 include contact information from the front matter
@@ -24,7 +24,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## 教育经历
+## 教育经历 Education
 
 ### **Carnegie Mellon University** `2018.9 -`
 
