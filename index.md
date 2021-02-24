@@ -14,7 +14,7 @@ age:
     text: 1995.12.11
 git:
     url: http://www.gitee.com/extraxue
-    text: 个人git地址
+    text: 个人git主页
 ---
 
 # 薛臣豪
@@ -41,7 +41,7 @@ Supported arguments:
 - 毕业绩点: 85/100
 - 在校4年每年均获得学院奖学金
 - 2014届学生中首批成为中共党员
-- 毕业作品:党务管理网站  [点击进入项目仓库地址](https://gitee.com/extraxue/graduationProject)
+- 毕业作品:**党务管理网站** [[项目仓库地址](https://gitee.com/extraxue/graduationProject)]
 
 ## 工作/实习经历 Experience
 
